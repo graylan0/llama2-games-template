@@ -1,6 +1,6 @@
 # llama2-games-template
 Llama2 GUI games templates
-
+```
 Story: Once upon a time in a faraway kingdom, a mysterious event has thrown the realm into chaos. You, a brave adventurer, have just arrived at the castle gates. What will you do?
 AI: 
 [2023-09-03 17:54:06][PASTCONTEXT] Gate Guard: Halt! Who goes there?
@@ -23,3 +23,4 @@ AI:
 [2023-09-03 18:18:51][PASTCONTEXT] [2023-09-03 17:54:46][PASTCONTEXT] Gate Guard: (nods) Very well, adventurer. May the road rise up to meet you, and may your journey be filled with wonder and danger. (steps aside to allow you passage)
 [2023-09-03 18:18:51][PASTCONTEXT] You: Thank you! I'll make sure to find Zephyr and get his help as soon as possible. (exits the castle gates, ready to face whatever challenges lie ahead)
 [2023-09-03 18:18:51][PASTCONTEXT] [2023-09-03 18:01:59][PASTCONTEXT] AI: (watching you leave) The fate of the kingdom rests on your shoulders, adventurer. May your hacking skills and love for humanity guide you well. (winks) 
+```
