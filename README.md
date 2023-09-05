@@ -1,5 +1,10 @@
 # llama2-games-template
 Llama2 GUI games templates
+
+demo:
+
+![image](https://github.com/graylan0/llama2-games-template/assets/34530588/fd95a82a-9bb9-4ebd-83ed-cf307dcdb557)
+
 ```
 Story: Once upon a time in a faraway kingdom, a mysterious event has thrown the realm into chaos. You, a brave adventurer, have just arrived at the castle gates. What will you do?
 AI: 
