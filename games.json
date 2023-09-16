@@ -1,0 +1,68 @@
+{
+    "games": [
+      {
+        "title": "Advanced Mars Adventure",
+        "description": "Embark on an epic adventure to Mars! You are the captain of the Mars mission. Create an exciting storyline and make decisions at key moments.",
+        "prompts": [
+          "You are the captain of the Mars mission. Your spaceship, the 'Red Explorer,' has just landed on Mars' surface. Describe the breathtaking Martian landscape.",
+          "As you explore Mars, your team discovers a mysterious cave entrance. What do you do next?",
+          "Inside the cave, you find peculiar Martian artifacts. Describe these artifacts and their potential significance.",
+          "A sudden sandstorm engulfs your team. How do you ensure everyone's safety?",
+          "You stumble upon an underground lake on Mars. What surprises does it hold, and how does it affect your mission?",
+          "A communication breakdown occurs with mission control on Earth. How do you handle this crisis?",
+          "Your team encounters an alien life form. Describe its appearance and your team's reaction.",
+          "A vital life support system malfunctions. How do you troubleshoot and keep your crew safe?",
+          "As you journey further into Mars, you discover an ancient Martian city. Describe its architecture and history.",
+          "An unexpected solar flare threatens your mission. How do you protect the crew and equipment?",
+          "You uncover a hidden Martian language. Can you decipher it, and what secrets does it reveal?",
+          "Your mission reaches a critical point. What difficult decisions must you make for the team's survival?",
+          "The crew faces exhaustion and morale issues. How do you motivate them to continue the mission?",
+          "You encounter a Martian sandworm. Describe the encounter and how you deal with this unexpected obstacle.",
+          "Mission control on Earth sends a rescue mission, but you must guide them to your location. Describe the challenges of this rescue operation."
+        ]
+      },
+      {
+        "title": "Lost Treasure Hunt",
+        "description": "Embark on a treasure hunt in the dense jungles of the Amazon. Solve riddles, dodge traps, and find the lost treasure.",
+        "prompts": [
+          "You arrive in the heart of the Amazon rainforest, guided by an ancient treasure map. Describe your surroundings.",
+          "The first riddle on the map leads you to a hidden temple. Describe the temple's architecture and its challenges.",
+          "Inside the temple, you find a series of puzzles. Solve the first puzzle to proceed.",
+          "A group of local wildlife appears interested in your expedition. How do you interact with them?",
+          "A deadly trap is triggered in the temple. Describe how you avoid it and continue your journey.",
+          "You discover a hidden underground river. What challenges and discoveries await you there?",
+          "The second riddle hints at a waterfall. Describe the beauty and danger of this natural wonder.",
+          "As you progress, you encounter a rival treasure hunter. How do you handle this unexpected competition?",
+          "A rare and poisonous snake crosses your path. Describe the encounter and your actions.",
+          "The third riddle guides you to a remote cave. What secrets does it hold, and how do you decipher the riddle?",
+          "Inside the cave, you find a chamber filled with glittering gems. Describe this breathtaking sight.",
+          "A sudden storm threatens your expedition. How do you protect yourselves?",
+          "You reach the final location indicated by the map. Describe the moment you uncover the long-lost treasure.",
+          "The treasure is protected by a mystical guardian. Describe the final challenge you must overcome.",
+          "With the treasure in hand, how do you plan to return safely and secure your find?"
+        ]
+      },
+      {
+        "title": "Space Diplomacy",
+        "description": "Navigate the complex world of intergalactic diplomacy. You are an ambassador representing Earth in a diverse and vibrant galaxy.",
+        "prompts": [
+          "You arrive at the Galactic Council, a hub of intergalactic diplomacy. Describe the diversity of species and cultures you encounter.",
+          "As an Earth ambassador, you must address a pressing issue in the galaxy. Describe the problem and your proposed solution.",
+          "Your first meeting with an alien ambassador is crucial. Describe their appearance and cultural customs.",
+          "A galactic trade dispute threatens stability. How do you mediate between the parties involved?",
+          "You receive a distress call from a distant star system. Describe your response and the challenges of the rescue mission.",
+          "A diplomatic banquet is held in your honor. Describe the exotic dishes and customs you experience.",
+          "You uncover a conspiracy that could lead to war. Describe your investigation and efforts to prevent conflict.",
+          "A mysterious artifact of great power is discovered. How do you handle its implications for the galaxy?",
+          "A powerful alien species demands Earth's submission. Describe your negotiations and the stakes involved.",
+          "A rare celestial event could influence intergalactic relations. How do you leverage this opportunity for diplomacy?",
+          "You encounter a nomadic spacefaring culture. Describe your interactions and the insights gained.",
+          "A diplomatic crisis erupts on a remote colony. Describe your efforts to restore order and peace.",
+          "You form alliances with multiple alien civilizations. Describe the challenges of maintaining these relationships.",
+          "An ancient prophecy is revealed, foretelling a cataclysmic event. How do you work to prevent it?",
+          "As your term as ambassador concludes, describe the legacy of your diplomatic efforts in the galaxy."
+        ]
+      }
+    ]
+  }
+  
