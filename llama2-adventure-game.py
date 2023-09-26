@@ -1,5 +1,4 @@
 from multiprocessing import Process
-import subprocess
 import threading
 import asyncio
 import random
@@ -15,9 +14,6 @@ import customtkinter
 import os
 import tkinter as tk
 from llama_cpp import Llama
-
-def run_batch_file():
-    subprocess.run(["webui.bat"], shell=True)
 
 script_dir = os.path.dirname(os.path.realpath(__file__))
 model_path = os.path.join(script_dir, "llama-2-7b-chat.ggmlv3.q8_0.bin")
@@ -159,10 +155,6 @@ class App(customtkinter.CTk):
 
 
 if __name__ == "__main__":
-    # Run the batch file in a separate process
-    batch_file_process = Process(target=run_batch_file)
-    batch_file_process.start()
-
     # Run your tkinter app
     app = App()
     app.mainloop()
